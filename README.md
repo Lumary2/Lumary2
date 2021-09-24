@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m Anja and I'm studying Software Engineering, now working on my Bachelor Thesis
+🔭 I’m Anja, a Software Engineer
 
 🐧 I love Linux, currently using Manjaro
 
