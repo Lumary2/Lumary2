@@ -8,3 +8,5 @@
 
 ⚡ Fun fact: I'm also a lawyer and switched to Software E. as my passion career
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumary2)](https://github.com/lumary2/github-readme-stats)
+
