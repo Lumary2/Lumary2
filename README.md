@@ -6,4 +6,4 @@
 
 🎬 I share what I learn on my Youtube channel
 
-⚡ Fun fact: I'm also a lawyer and switched to Software E. as my passion career
+⚡ Fun fact: I'm also a lawyer and switched to Software Engineering as my passion career
